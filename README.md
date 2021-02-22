@@ -1,1 +1,1 @@
-# learn_logic_and_algorita
+# learn_logic_and_algoritma
