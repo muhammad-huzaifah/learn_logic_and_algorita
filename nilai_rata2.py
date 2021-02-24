@@ -13,3 +13,4 @@ x = 4
 y = 5
 hasil = (x+y)/2
 print(hasil)
+print(type(x))
