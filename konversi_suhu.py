@@ -14,3 +14,5 @@ celcius = 30
 fahrenheit = 1.8 * celcius + 32
 hasil = 1.8 * celcius + 32
 print(hasil)
+print(type(hasil))
+print(type(celcius))
