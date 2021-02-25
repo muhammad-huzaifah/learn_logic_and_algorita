@@ -1,0 +1,30 @@
+"""
+A dan B bersaudara. A lebih tua daripada B dengan selisih usia sebesar X tahun. usia A dan usia B adalah Y.
+Berapa usiaA dan B?
+Penyelesaian :
+Masukan : X dan Y
+Keluaran : Usia A dan Usia B
+dua persamaan yang didapat dari penjelasan tersebut berupa :
+1. Usia A - Usia B = X
+2. Usia A + Usia B = Y
+Berdasarkan persamaan 1, didapatkan :
+Usia A = X - Usia B
+Berdasarkan persamaan 2, maka :
+Usia A + Usia B = Y
+2 * Usia B = X - Y
+Dengan demikian,
+Usia B = (X-Y)/2
+pseukode :
+masukkan X dan Y
+Usia B <- (X-Y)/2
+Usia A <- X - Usia B
+Tampilkan Usia A dan Usia B
+"""
+
+x = 30
+y = 10
+usiaB = (x - y)/2
+print(usiaB)
+
+usiaA = x - usiaB
+print(usiaA)
