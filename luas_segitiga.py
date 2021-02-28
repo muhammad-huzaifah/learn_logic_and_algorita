@@ -21,3 +21,5 @@ s = (SA+SB+SC)/2
 print(s)
 luas = math.sqrt(50*(50-30)*(50-45)*(50-25))
 print(luas)
+luas_2 = math.sqrt(353.55)
+print(luas_2)
