@@ -29,5 +29,6 @@ jumlah = 0,1,3,6,10,15
 pencacah = 1,2,3,4,5
 jumlah_pencacah = 1+2+3+4+5
 
+
 print(jumlah_pencacah)
 
